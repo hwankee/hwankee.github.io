@@ -3,7 +3,7 @@ baseURL = "http://hwankee.github.io"
 languageCode = "ko-KR"
 summaryLength = "70"
 theme = "kross-hugo"
-title = "Kross"
+title = "hwankee"
 
 # css plugins
 [[params.plugins.css]]
@@ -79,7 +79,7 @@ preloader = "images/preloader.gif" # use png, jpg, svg or gif format
 
 # contact
 [params.contact]
-enable = true
+enable = false
 form_action = "#" # contact form works with : https://hwankee.github.io
 
 # google map

@@ -1,13 +1,13 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "hi! I'm <br> hwankee <br> Game Developer"
 
 # about
 about:
-  enable : true
+  enable : false
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   button:
-    enable : true
+    enable : false
     label : "know more"
     URL : "about"
 
@@ -16,8 +16,8 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Web Design"
-      progress : "90%"
+    - title : "Unity Dev"
+      progress : "70%"
       color : "#fdb157"
       
     - title : "Logo Design"
