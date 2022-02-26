@@ -4,11 +4,11 @@ We'd love your help! Thanks for caring about the theme of Zola.
 
 ## Licensing
 
-This repository is under the MIT license. You can find the full text of the [license](./LICENSE) in this repository.
+This repository is under the MIT license. You can find the full text of the [license](../LICENSE) in this repository.
 
 ## Code of Conduct
 
-The AdiDoks theme has a [code of conduct](./CODE_OF_CONDUCT.md) that governs all sub-projects, including this one. Please respect it!
+The AdiDoks theme has a [code of conduct](CODE_OF_CONDUCT.md) that governs all sub-projects, including this one. Please respect it!
 
 ## Contribute to Doks
 
