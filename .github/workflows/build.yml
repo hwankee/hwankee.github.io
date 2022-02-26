@@ -2,13 +2,13 @@ name: Build/deploy website
 
 env:
   ZOLA_VERSION: "0.13.0"
-  SOURCE_BRANCH: "source"
-  PUBLISH_BRANCH: "master"
+  SOURCE_BRANCH: "gh-pages"
+  PUBLISH_BRANCH: "main"
 
 on:
   push:
     branches:
-      - main
+      - gh-pages
   pull_request:
     branches:
       - gh-pages
